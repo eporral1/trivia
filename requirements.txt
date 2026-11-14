@@ -1,0 +1,5 @@
+aiohttp>=3.9,<4
+edge-tts>=7.0
+grpcio>=1.60
+grpcio-tools>=1.60
+requests>=2.31
